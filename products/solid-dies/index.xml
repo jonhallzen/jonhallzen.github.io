@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wilson Manufacturing</title>
-    <link>https://jonhallzen.github.io/products/solid-dies/</link>
+    <link>/wilson2.github.io/products/solid-dies/</link>
     <description>Recent content on Wilson Manufacturing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://jonhallzen.github.io/products/solid-dies/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/wilson2.github.io/products/solid-dies/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>HT45 Die</title>
-      <link>https://jonhallzen.github.io/products/solid-dies/ht45/</link>
+      <link>/wilson2.github.io/products/solid-dies/ht45/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jonhallzen.github.io/products/solid-dies/ht45/</guid>
+      <guid>/wilson2.github.io/products/solid-dies/ht45/</guid>
       <description>The HT45 die is used strictly for short run pressure-sensitive applications.</description>
     </item>
     
     <item>
       <title>M80 Die</title>
-      <link>https://jonhallzen.github.io/products/solid-dies/m80/</link>
+      <link>/wilson2.github.io/products/solid-dies/m80/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jonhallzen.github.io/products/solid-dies/m80/</guid>
+      <guid>/wilson2.github.io/products/solid-dies/m80/</guid>
       <description>The M80 die is designed for both short run metal-to-metal and long run pressure-sensitive applications. Compared to HT45 steel, this steel achieves a greater level of hardness making it the perfect choice for long runs!</description>
     </item>
     
     <item>
       <title>Vacuum Insert</title>
-      <link>https://jonhallzen.github.io/products/solid-dies/vacuum_insert/</link>
+      <link>/wilson2.github.io/products/solid-dies/vacuum_insert/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jonhallzen.github.io/products/solid-dies/vacuum_insert/</guid>
+      <guid>/wilson2.github.io/products/solid-dies/vacuum_insert/</guid>
       <description>The M80 die is designed for both short run metal-to-metal and long run pressure-sensitive applications. Compared to HT45 steel, this steel achieves a greater level of hardness making it the perfect choice for long runs!</description>
     </item>
     
