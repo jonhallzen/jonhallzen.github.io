@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wilson Manufacturing</title>
-    <link>https://jonhallzen.github.io/wilson2.github.io/</link>
+    <link>/</link>
     <description>Recent content on Wilson Manufacturing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 May 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jonhallzen.github.io/wilson2.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Force</title>
-      <link>https://jonhallzen.github.io/wilson2.github.io/posts/tech-talks/force/</link>
+      <link>/posts/tech-talks/force/</link>
       <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jonhallzen.github.io/wilson2.github.io/posts/tech-talks/force/</guid>
+      <guid>/posts/tech-talks/force/</guid>
       <description>Force: Tooling&amp;rsquo;s Critical Balancing Act
 In rotary die cutting, we apply enough force within a small area to cause the material to actually fail, or break. So understanding the principles behind force is essential for productivity and longer tool life.
 Measuring Force
@@ -25,10 +25,10 @@ Different materials require varying amounts of force. At Wilson, we try to succe
     
     <item>
       <title>Steel?</title>
-      <link>https://jonhallzen.github.io/wilson2.github.io/posts/tech-talks/steel/</link>
+      <link>/posts/tech-talks/steel/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jonhallzen.github.io/wilson2.github.io/posts/tech-talks/steel/</guid>
+      <guid>/posts/tech-talks/steel/</guid>
       <description>carbon | chromium | vanadium
 Not all Steel is Created Equal
 Steel is an alloy of iron. An alloy takes a basic element—in this case, iron—and adds other elements to it to enhance certain properties. For applications in our industry, these additional elements include carbon, chromium, and vanadium.
@@ -37,57 +37,57 @@ The impact of elements</description>
     
     <item>
       <title>HT45 Die</title>
-      <link>https://jonhallzen.github.io/wilson2.github.io/products/solid-dies/ht45/</link>
+      <link>/products/solid-dies/ht45/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jonhallzen.github.io/wilson2.github.io/products/solid-dies/ht45/</guid>
+      <guid>/products/solid-dies/ht45/</guid>
       <description>The HT45 die is used strictly for short run pressure-sensitive applications.</description>
     </item>
     
     <item>
       <title>Keith Chrisco</title>
-      <link>https://jonhallzen.github.io/wilson2.github.io/reps/keith-chrisco/</link>
+      <link>/reps/keith-chrisco/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jonhallzen.github.io/wilson2.github.io/reps/keith-chrisco/</guid>
+      <guid>/reps/keith-chrisco/</guid>
       <description>About Me Keith works hard to make die purchasing much easier for his customers. Twenty years of experience at Wilson help Keith to offer extensive technical knowledge of the converting process. A proven expertise in problem-solving—particularly for automotive, gasket and specialty die-cutting applications, helps him manage little details most competitors miss.
 Away from work, Keith devotes his free time to hunting, fishing and working his farm in northern Missouri.</description>
     </item>
     
     <item>
       <title>M80 Die</title>
-      <link>https://jonhallzen.github.io/wilson2.github.io/products/solid-dies/m80/</link>
+      <link>/products/solid-dies/m80/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jonhallzen.github.io/wilson2.github.io/products/solid-dies/m80/</guid>
+      <guid>/products/solid-dies/m80/</guid>
       <description>The M80 die is designed for both short run metal-to-metal and long run pressure-sensitive applications. Compared to HT45 steel, this steel achieves a greater level of hardness making it the perfect choice for long runs!</description>
     </item>
     
     <item>
       <title>Print Cylinders</title>
-      <link>https://jonhallzen.github.io/wilson2.github.io/products/rolls/print-cylinders/</link>
+      <link>/products/rolls/print-cylinders/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jonhallzen.github.io/wilson2.github.io/products/rolls/print-cylinders/</guid>
+      <guid>/products/rolls/print-cylinders/</guid>
       <description>Wilson print cylinders are manufactured on CNC equipment with stringent standards for guaranteed accuracy. Cylinders are available for all makes of equipment with spur- and helical-type gears. For an additional fee, cylinders are available with a hard-coat finish to provide protection from razor blade scratches.</description>
     </item>
     
     <item>
       <title>Tonia Boswell</title>
-      <link>https://jonhallzen.github.io/wilson2.github.io/reps/tonia-boswell/</link>
+      <link>/reps/tonia-boswell/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jonhallzen.github.io/wilson2.github.io/reps/tonia-boswell/</guid>
+      <guid>/reps/tonia-boswell/</guid>
       <description>About Me For Tonia, customer satisfaction and service is always the number one priority.
 Tonia first joined Wilson in 2004, and is dedicated to customer support for the territory covered by sales representative Mari Werner. During her free time, Tonia stays busy raising her two young children, and enjoys reading, boating and water sports.</description>
     </item>
     
     <item>
       <title>Vacuum Insert</title>
-      <link>https://jonhallzen.github.io/wilson2.github.io/products/solid-dies/vacuum_insert/</link>
+      <link>/products/solid-dies/vacuum_insert/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jonhallzen.github.io/wilson2.github.io/products/solid-dies/vacuum_insert/</guid>
+      <guid>/products/solid-dies/vacuum_insert/</guid>
       <description>The M80 die is designed for both short run metal-to-metal and long run pressure-sensitive applications. Compared to HT45 steel, this steel achieves a greater level of hardness making it the perfect choice for long runs!</description>
     </item>
     

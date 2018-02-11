@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wilson Manufacturing</title>
-    <link>https://jonhallzen.github.io/wilson2.github.io/products/flexible-sheet-dies/</link>
+    <link>/products/flexible-sheet-dies/</link>
     <description>Recent content on Wilson Manufacturing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://jonhallzen.github.io/wilson2.github.io/products/flexible-sheet-dies/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/products/flexible-sheet-dies/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
