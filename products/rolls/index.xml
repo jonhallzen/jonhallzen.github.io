@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wilson Manufacturing</title>
+    <link>/products/rolls/</link>
+    <description>Recent content on Wilson Manufacturing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/products/rolls/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Print Cylinders</title>
+      <link>/products/rolls/print-cylinders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/products/rolls/print-cylinders/</guid>
+      <description>Wilson print cylinders are manufactured on CNC equipment with stringent standards for guaranteed accuracy. Cylinders are available for all makes of equipment with spur- and helical-type gears. For an additional fee, cylinders are available with a hard-coat finish to provide protection from razor blade scratches.</description>
+    </item>
+    
+  </channel>
+</rss>
