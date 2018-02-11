@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Wilson Manufacturing</title>
-    <link>/categories/</link>
+    <link>https://jonhallzen.github.io/wilson2.github.io/categories/</link>
     <description>Recent content in Categories on Wilson Manufacturing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jonhallzen.github.io/wilson2.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Techtalk</title>
-      <link>/categories/techtalk/</link>
+      <link>https://jonhallzen.github.io/wilson2.github.io/categories/techtalk/</link>
       <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/techtalk/</guid>
+      <guid>https://jonhallzen.github.io/wilson2.github.io/categories/techtalk/</guid>
       <description></description>
     </item>
     
